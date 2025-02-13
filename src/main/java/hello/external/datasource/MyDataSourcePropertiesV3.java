@@ -57,5 +57,4 @@ public class MyDataSourcePropertiesV3 {
             this.options = options;
         }
     }
-
 }
